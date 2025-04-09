@@ -40,6 +40,3 @@ npm run lint
 ```
 npm run format
 ```
-
-## ссылка на проект
-https://andreynasaite.github.io/bloglist/
